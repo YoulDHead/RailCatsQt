@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="koi8-r" ?>
+<Body>
+    <Decoder HWAddress="12" Steps="128" LAddress="12" />
+    <Decoder HWAddress="13" Steps="128" LAddress="13" />
+</Body>

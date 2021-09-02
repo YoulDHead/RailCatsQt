@@ -1,0 +1,27 @@
+﻿Build started 19.02.2013 11:13:53.
+     1>Project "C:\temp\railcats-code\RailCatsQt\tinyxml\tinyxml_lib.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinyxml.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\\" /Fd"C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\vc100.pdb" /FR"C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\\" /Gd /TP /analyze- /errorReport:prompt tinystr.cpp tinyxml.cpp tinyxmlerror.cpp tinyxmlparser.cpp
+         tinyxmlparser.cpp
+         tinyxmlerror.cpp
+         tinyxml.cpp
+         tinystr.cpp
+         Создание кода...
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinyxml.lib" /NOLOGO "C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinystr.obj"
+         "C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinyxml.obj"
+         "C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinyxmlerror.obj"
+         "C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinyxmlparser.obj"
+         tinyxml_lib.vcxproj -> C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinyxml.lib
+       BscMake:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o"C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinyxml.bsc" "C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinystr.sbr" "C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinyxml.sbr" "C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinyxmlerror.sbr" "C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinyxmlparser.sbr"
+       FinalizeBuildStatus:
+         Deleting file "C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinyxml.unsuccessfulbuild".
+         Touching "C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinyxml.lastbuildstate".
+     1>Done Building Project "C:\temp\railcats-code\RailCatsQt\tinyxml\tinyxml_lib.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.82

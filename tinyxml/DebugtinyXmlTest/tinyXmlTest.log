@@ -1,0 +1,31 @@
+﻿Build started 19.02.2013 11:13:56.
+     1>Project "C:\temp\railcats-code\RailCatsQt\tinyxml\tinyXmlTest.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D TUNE /D _CRT_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\\" /Fd"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\vc100.pdb" /FR"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\\" /Gd /TP /analyze- /errorReport:prompt xmltest.cpp
+         xmltest.cpp
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe.embed.manifest.res" C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.lib" /MACHINE:X86 "C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe.embed.manifest.res"
+         "C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\xmltest.obj"
+         "C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinyxml.lib"
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe.embed.manifest" /manifest "C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe.intermediate.manifest"
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe.embed.manifest.res" C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.lib" /MACHINE:X86 "C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe.embed.manifest.res"
+         "C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\xmltest.obj"
+         "C:\temp\railcats-code\RailCatsQt\tinyxml\Debugtinyxml\tinyxml.lib"
+         tinyXmlTest.vcxproj -> C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe
+       BscMake:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o"C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.bsc" "C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\xmltest.sbr"
+       FinalizeBuildStatus:
+         Deleting file "C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.unsuccessfulbuild".
+         Touching "C:\temp\railcats-code\RailCatsQt\tinyxml\DebugtinyXmlTest\tinyXmlTest.lastbuildstate".
+     1>Done Building Project "C:\temp\railcats-code\RailCatsQt\tinyxml\tinyXmlTest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.18
